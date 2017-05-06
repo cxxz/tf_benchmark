@@ -5,10 +5,18 @@ A few image classification models are selected to add the reference points. The 
 
 ## Test Environment
 **Xpander Type**: CUBIX
+
 **GPU**: 8x NVIDIA GTX 1080
+
 **OS**: Ubuntu 16.04 LTS
+
 **CUDA / cuDNN**: 8.0 / 5.1
+
 **TensorFlow Version**: 1.1
+
 **CPU**: 2x Intel Xeon E5-2620
+
 **Disk**: Local SSD
+
 **DataSet**: ImageNet
+
