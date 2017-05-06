@@ -14,7 +14,7 @@ A few image classification models are selected to add the reference points. The 
 * **DataSet**: ImageNet
 * **system topology**:
 ```	
-**nvidia-smi topo --matrix**
+nvidia-smi topo --matrix
         GPU0   GPU1    GPU2     GPU3    GPU4    GPU5    GPU6    GPU7    CPU Affinity
 GPU0	 X     PIX     PIX      PIX	SOC	SOC	SOC	SOC	0-5,12-17
 GPU1	PIX     X      PIX      PIX	SOC	SOC	SOC	SOC	0-5,12-17
